@@ -50,7 +50,8 @@ Gem::Specification.new do |s|
     "lib/bluepill/util/rotational_array.rb",
     "lib/bluepill/version.rb",
     "lib/example.rb",
-    "lib/runit_example.rb"
+    "lib/runit_example.rb",
+    "ra-bluepill.gemspec"
   ]
   s.homepage = %q{http://github.com/arya/bluepill}
   s.require_paths = ["lib"]
