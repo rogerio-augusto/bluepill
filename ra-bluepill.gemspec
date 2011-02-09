@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{bluepill-ra}
+  s.name = %q{ra-bluepill}
   s.version = "0.0.44"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -26,8 +26,6 @@ Gem::Specification.new do |s|
     "VERSION",
     "bin/bluepill",
     "bin/bpsv",
-    "bluepill-ra.gemspec",
-    "bluepill.gemspec",
     "lib/bluepill.rb",
     "lib/bluepill/application.rb",
     "lib/bluepill/application/client.rb",
