@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{ra-bluepill}
-  s.version = "0.0.44"
+  s.version = "0.0.46"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Arya Asemanfar", "Gary Tsang", "Rohith Ravi"]
