@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "bin/bluepill",
     "bin/bpsv",
+    "bluepill-ra.gemspec",
     "bluepill.gemspec",
     "lib/bluepill.rb",
     "lib/bluepill/application.rb",
